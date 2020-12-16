@@ -1,0 +1,23 @@
+Package: stat302project2part2
+Title: STAT 302 Winter 2020 Project 2 Part 2 R Package
+Version: 0.0.0.9000
+Authors@R: 
+    person(given = "Lisa",
+           family = "Jiang",
+           role = c("aut", "cre"),
+           email = "lj111217@uw.edu")
+Description: This package is is the part 2 R package for STAT 302.
+License: GPL-3
+Encoding: UTF-8
+LazyData: true
+Roxygen: list(markdown = TRUE)
+RoxygenNote: 7.1.1
+Suggests: 
+    testthat,
+    covr,
+    knitr,
+    rmarkdown
+Depends: 
+    R (>= 2.10)
+VignetteBuilder: knitr
+Imports: stats, dplyr, magrittr, randomForest, class, ggplot2, kableExtra, tibble
