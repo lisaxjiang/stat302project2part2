@@ -1,7 +1,7 @@
 ---
 title: "Project 2: stat302project2part2 Tutorial"
 author: "Lisa Jiang"
-date: "12/11/2020"
+date: "12/16/2020"
 output: rmarkdown::html_vignette
 vignette: >
   %\VignetteIndexEntry{stat302project2part2 Tutorial}
