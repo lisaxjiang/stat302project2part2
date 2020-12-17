@@ -61,7 +61,7 @@ Your analysis should be contained on a GitHub repository and include:
     * use `saveRDS()` and `write_csv()` to save your table of summary statistics and your simulation results, respectively (see `Results` description).
 * A `Output` subfolder with:
   * A `Figures` sub-subfolder with all the figures you generated in `Analysis`
-  * A `Results` sub-subfolder that contains (a) your table of 8 summary statistics saved as a `.rds` file and (b) a `.csv` with your 120 simulated results with  4 columns for each value of $k$ and 30 rows for each simulation.
+  * A `Results` sub-subfolder that contains (a) your table of 8 summary statistics saved as a `.rds` file and (b) a `.csv` with your 90 simulated results with 3 columns for each value of $k$ and 30 rows for each simulation.
 * A `.gitignore` file
   * Include `.Rproj.user` and `.Rhistory`
 
